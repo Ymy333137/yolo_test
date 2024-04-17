@@ -1,0 +1,10 @@
+train: D:/python/ultralytics-main/datasets/train.txt
+val: D:/python/ultralytics-main/datasets/val.txt
+test: D:/python/ultralytics-main/datasets/test.txt
+
+# number of classes
+nc: 9
+
+# class names
+names: ['D00', 'D40', 'D10', 'D20', 'D44', 'D01', 'D11', 'D50', 'D43']
+
